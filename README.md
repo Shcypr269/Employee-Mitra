@@ -5,8 +5,7 @@
 - Overview  
 - Problem Statement  
 - Why This Project Stands Out  
-- Key Features  
-- Traditional RAG vs Agentic RAG  
+- Key Features 
 - System Architecture  
 - Tech Stack  
 - How It Works  
