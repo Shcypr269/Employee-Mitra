@@ -145,20 +145,14 @@ Supported actions include:
 - Determines:
   - Q&A intent
   - Action intent
-  - Ambiguous (fallback to Q&A)
-
-#### 4. Routing Logic
-
-- If Q&A → Vector retrieval  
-- If Action → Action schema selected  
-
-#### 5. LLM Processing
+  
+#### 4. LLM Processing
 
 - LLM receives:
   - Retrieved context (for RAG)
   - Or action schema (for structured output)
 
-#### 6. Response Generation
+#### 5. Response Generation
 
 - Factual answers include:
   - Extracted answer
@@ -166,7 +160,7 @@ Supported actions include:
 - Actions return:
   - JSON with required parameters
 
-#### 7. Action Execution (Mock)
+#### 6. Action Execution (Mock)
 
 - Action handler simulates enterprise response
 
