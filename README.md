@@ -47,8 +47,6 @@ Most systems can answer questions but cannot trigger real enterprise actions lik
 
 As a result, employees still rely on fragmented portals and manual processes.
 
----
-
 ## Why This Project Stands Out
 
 - ✅ Combines **RAG + Agentic reasoning**
