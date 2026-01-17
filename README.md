@@ -29,8 +29,6 @@ It enables employees to:
 
 This system demonstrates how **Agentic RAG** can bridge the gap between knowledge retrieval and operational automation in enterprise environments.
 
----
-
 ## Problem Statement
 
 Enterprises face two major challenges with AI assistants:
