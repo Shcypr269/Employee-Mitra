@@ -1,6 +1,6 @@
 # Employee-Mitra
 
-## 📚 Table of Contents
+## Table of Contents
 
 - Overview  
 - Problem Statement  
@@ -17,9 +17,9 @@
 
 The **Agentic Enterprise Assistant** is an enterprise-focused NLP system designed to go beyond traditional chatbots by combining:
 
-- 📄 **Document-grounded Q&A using RAG**
-- 🧠 **Agentic intent detection**
-- ⚙️ **Enterprise action execution via structured JSON outputs**
+- **Document-grounded Q&A using RAG**
+- **Agentic intent detection**
+- **Enterprise action execution via structured JSON outputs**
 
 It enables employees to:
 
@@ -49,32 +49,32 @@ As a result, employees still rely on fragmented portals and manual processes.
 
 ## Why This Project Stands Out
 
-- ✅ Combines **RAG + Agentic reasoning**
-- ✅ Produces **hallucination-safe answers with citations**
-- ✅ Detects **user intent with confidence scoring**
-- ✅ Outputs **structured JSON for enterprise automation**
-- ✅ Designed with **enterprise workflows in mind**
-- ✅ Clean **API-first architecture** for easy integration
+- Combines **RAG + Agentic reasoning**
+- Produces **hallucination-safe answers with citations**
+- Detects **user intent with confidence scoring**
+- Outputs **structured JSON for enterprise automation**
+- Designed with **enterprise workflows in mind**
+- Clean **API-first architecture** for easy integration
 
-💡 This project is not just a chatbot — it is a **decision-making assistant with execution capability**.
+This project is not just a chatbot — it is a **decision-making assistant with execution capability**.
 
 ---
 
 ## Key Features
 
-### 📄 Document Intelligence
+### Document Intelligence
 
 - PDF ingestion pipeline
 - Chunk-based retrieval with metadata
 - Page-level citations
 
-### 🧠 Agentic Reasoning
+### Agentic Reasoning
 
 - Intent classification (Q&A vs Action)
 - Confidence scoring
 - Routing logic
 
-### ⚙️ Enterprise Actions (Mock Integrations)
+### Enterprise Actions (Mock Integrations)
 
 Supported actions include:
 
@@ -85,9 +85,9 @@ Supported actions include:
 - `escalate_issue`
 - `update_documentation`
 
-⚠️ **Note:** Actions are executed via mock/stub handlers for hackathon demonstration. No real enterprise systems are connected.
+**Note:** Actions are executed via mock/stub handlers for hackathon demonstration. No real enterprise systems are connected.
 
-### 🔐 Enterprise-Ready Design
+### Enterprise-Ready Design
 
 - Environment-based configuration
 - Dockerized deployment
@@ -99,12 +99,12 @@ Supported actions include:
 
 | Feature | Traditional RAG | Agentic RAG (This Project) |
 |--------|------------------|----------------------------|
-| Document grounding | ✅ Yes | ✅ Yes |
-| Citations | ⚠️ Optional | ✅ Mandatory |
-| Intent detection | ❌ No | ✅ Yes |
-| Action execution | ❌ No | ✅ Yes |
-| Structured outputs | ❌ No | ✅ JSON schemas |
-| Workflow automation | ❌ Not supported | ✅ Supported |
+| Document grounding | Yes | Yes |
+| Citations | Optional | Mandatory |
+| Intent detection | No | Yes |
+| Action execution | No | Yes |
+| Structured outputs | No | JSON schemas |
+| Workflow automation | Not supported | Supported |
 | Enterprise use cases | Limited | Strong fit |
 
 ---
