@@ -57,8 +57,6 @@ As a result, employees still rely on fragmented portals and manual processes.
 
 This project is not just a chatbot — it is a **decision-making assistant with execution capability**.
 
----
-
 ## Key Features
 
 ### Document Intelligence
@@ -91,8 +89,7 @@ Supported actions include:
 - Environment-based configuration
 - Dockerized deployment
 - API-first design
-
----
+  
 
 ## System Architecture
 
@@ -122,7 +119,6 @@ Supported actions include:
 | Hosting | Hugging Face Spaces |
 | Dev Tunneling | ngrok (development only) |
 
----
 
 ## How It Works
 
