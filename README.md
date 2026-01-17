@@ -95,20 +95,6 @@ Supported actions include:
 
 ---
 
-## Traditional RAG vs Agentic RAG
-
-| Feature | Traditional RAG | Agentic RAG (This Project) |
-|--------|------------------|----------------------------|
-| Document grounding | Yes | Yes |
-| Citations | Optional | Mandatory |
-| Intent detection | No | Yes |
-| Action execution | No | Yes |
-| Structured outputs | No | JSON schemas |
-| Workflow automation | Not supported | Supported |
-| Enterprise use cases | Limited | Strong fit |
-
----
-
 ## System Architecture
 
 ### Textual Flow
@@ -136,7 +122,6 @@ Supported actions include:
 | Containerization | Docker |
 | Hosting | Hugging Face Spaces |
 | Dev Tunneling | ngrok (development only) |
-| Secrets Management | Environment variables |
 
 ---
 
