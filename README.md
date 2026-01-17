@@ -1,7 +1,5 @@
 # Employee-Mitra
 
-*(Hackathon Variant: **HCLTech Agentic Enterprise Assistant**)*
-
 ---
 
 ## 📚 Table of Contents
