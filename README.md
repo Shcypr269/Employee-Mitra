@@ -1,7 +1,5 @@
 # Employee-Mitra
 
----
-
 ## 📚 Table of Contents
 
 - Overview  
