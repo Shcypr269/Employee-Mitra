@@ -15,22 +15,7 @@
 - Tech Stack  
 - How It Works  
 - Quick Demo  
-- API Endpoints Table  
-- API Usage Example  
-- Configuration (Environment Variables)  
-- Running Locally  
-- Deployment Strategy  
-- Security Considerations  
-- Performance & Scalability Notes  
-- Development & Extensibility  
-- Troubleshooting  
-- Future Enhancements  
-- Hackathon Note  
-- Contributing  
-- License  
-- Team / Credits  
 
----
 
 ## Overview
 
